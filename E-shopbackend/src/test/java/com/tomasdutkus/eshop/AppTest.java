@@ -1,4 +1,4 @@
-package com.tomasdutkus;
+package com.tomasdutkus.eshop;
 
 import static org.junit.Assert.assertTrue;
 

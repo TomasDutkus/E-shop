@@ -1,4 +1,4 @@
-package com.tomasdutkus;
+package com.tomasdutkus.eshop;
 
 /**
  * Hello world!
